@@ -1,0 +1,3 @@
+prompt off
+. /usr/share/zsh/site-contrib/powerline.zsh
+eval "$(rbenv init -)"
